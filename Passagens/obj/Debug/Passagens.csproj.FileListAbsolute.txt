@@ -1,0 +1,6 @@
+c:\users\flávio leal\documents\visual studio 2015\Projects\Passagens\Passagens\bin\Debug\Passagens.dll.config
+c:\users\flávio leal\documents\visual studio 2015\Projects\Passagens\Passagens\bin\Debug\Passagens.dll
+c:\users\flávio leal\documents\visual studio 2015\Projects\Passagens\Passagens\bin\Debug\Passagens.pdb
+c:\users\flávio leal\documents\visual studio 2015\Projects\Passagens\Passagens\obj\Debug\Passagens.dll
+c:\users\flávio leal\documents\visual studio 2015\Projects\Passagens\Passagens\obj\Debug\Passagens.pdb
+c:\users\flávio leal\documents\visual studio 2015\Projects\Passagens\Passagens\obj\Debug\Passagens.csprojResolveAssemblyReference.cache
